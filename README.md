@@ -1,7 +1,7 @@
 I'm Ethan
 =================================================================================================================================
 
-I am a undergraduate student studying computer science with a passion in game development. I am a competitve gamer. I like going to the gym.
+I am a undergraduate student studying computer science with a passion in game development.
 
 * 🌍  I'm based in Cleveland
 * ✉️  You can contact me at [eyt12@case.edu](mailto:eyt12@case.edu)
